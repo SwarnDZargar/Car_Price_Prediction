@@ -1,2 +1,3 @@
 # Car_Price_Prediction
-this will predict the price of the cars using the features given in the dataset
+This will predict the price of the cars using the features given in the dataset
+Dataset used is of CarDekho.com
